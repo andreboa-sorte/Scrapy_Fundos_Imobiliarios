@@ -5,17 +5,22 @@
 * Scrapy 2.4.1 
 
 <strong>Preciso baixar algo?</strong><br>
-É necessario ter o Python instalado e o Scrapy (*pip install scrapy*).<br>
-Por ultimo, ter uma IDE de sua preferencia, para rodar o projeto.<br>
+É necessario ter o Python instalado e o Scrapy (*pip install scrapy*); Por ultimo, ter uma IDE de sua preferencia, para rodar o projeto.<br>
 
 <strong>Como faço para funcionar o codigo?</strong>
-* Basta baixar ou clonar o codigo, caso não tenha instalado o <strong>Scrapy</strong>, instale ele.
+* Basta baixar ou clonar o codigo, caso não tenha instalado o <strong>Scrapy</strong>, instale ele (*pip install scrapy*).
 * Abra o terminal e esteja dentro da pasta do projeto, depois basta rodar o comando: <br>
-* scrapy crawl procuraFII -o (*nome do arquivo a ser gerado* + .csv ou qualquer extensão desejada).<br>
+ **scrapy crawl procuraFII -o** *(nome do arquivo a ser gerado + .csv ou qualquer extensão desejada)*.<br>
  **Exemplo**: scrapy crawl procuraFII -o DadosFundosImobiliarios.csv
+ 
+ ![terminal mostrando o codigo para rodar o projeto](https://user-images.githubusercontent.com/53584953/131869633-c23adc4e-c762-4ea3-b1fa-2a629e50aedc.png)
+
 
 ### Onde vejo o codigo que foi criado e posso alteralo?
 #### Caso deseja alterar a esturua do codigou ou A estrutura do site seja alterada e o Xpaht não funione mais.
 
 * Entre na pasta *Spiders*, abra o arquivo **procuraFII** e lá será encontrado todos o codigo feito e seu comentario explicando cada função. 
+
+![mostrando onde fica o procuraFII](https://user-images.githubusercontent.com/53584953/131869698-8579ad00-1794-4137-bdaa-467059e409b0.png)
+
 
