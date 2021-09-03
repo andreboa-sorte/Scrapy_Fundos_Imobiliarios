@@ -3,6 +3,10 @@
 
 ![Captura de tela 2021-09-03 181318](https://user-images.githubusercontent.com/53584953/132065825-ab14935f-328f-4c9b-98d3-ddd2d3cc4858.png)
 
+### Video de onde a ideia do codigo foi retirada.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IazEN13o304/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3Ks7-FTNBaeHO91dnjDhCETYFw)](https://www.youtube.com/watch?v=IazEN13o304&t=984s&ab_channel=OPrimoRico)
+
+Video produzido pelo canal Primo Rico.
 
 <strong>Itens ultilizados e versoniamentos:</strong>
 * Python 3.9.0
