@@ -19,6 +19,8 @@
 **Link para a versão do código que coleta os dados filtrados:** <br>
 https://github.com/andreboa-sorte/Scrapy_Fundos_Imobiliarios_Filtrados
 
+***
+
 <strong>Itens ultilizados e versoniamentos:</strong>
 * Python 3.9.0
 * Scrapy 2.4.1 
