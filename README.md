@@ -3,12 +3,21 @@
 
 ![Captura de tela 2021-09-03 181318](https://user-images.githubusercontent.com/53584953/132065825-ab14935f-328f-4c9b-98d3-ddd2d3cc4858.png)
 
-### Video de onde codigo foi inspirado.
+### Vídeo explicando como o codigo foi feito. 
+[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/dK7pLhqVl-Y/mqdefault.jpg?v=61366866&sqp=CIjP2YkG&rs=AOn4CLBYXH7tZWLLw9fERLy7KiyDM0_Dvg)](https://youtu.be/dK7pLhqVl-Y)
+<br>*(Clique na imamge para ser redirecionado)*
+
+
+### Vídeo de onde codigo foi inspirado.
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/IazEN13o304/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCc3Ks7-FTNBaeHO91dnjDhCETYFw)](https://www.youtube.com/watch?v=IazEN13o304&t=984s&ab_channel=OPrimoRico)
+<br>*(Clique na imamge para ser redirecionado)*
 
-Video produzido pelo canal Primo Rico.
+***
+### Objetivo do codigo:
+* Coletar todos os dados dos Fundos Imobiliários.
 
-
+**Link para a versão do código que coleta os dados filtrados:** <br>
+https://github.com/andreboa-sorte/Scrapy_Fundos_Imobiliarios_Filtrados
 
 <strong>Itens ultilizados e versoniamentos:</strong>
 * Python 3.9.0
